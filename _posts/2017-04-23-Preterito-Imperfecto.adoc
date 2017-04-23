@@ -1,0 +1,8 @@
+= Preterito Imperfecto
+
+1. m. Gram. Tiempo imperfectivo que indica que la acción, el proceso o el estado expresados por el verbo se desarrollan de manera simultánea a cierta acción pasada. La forma cantaba es pretérito imperfecto.
+
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+:hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
