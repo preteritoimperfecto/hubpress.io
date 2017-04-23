@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://preteritoimperfecto.github.io",
+    "hubpress": "https://preteritoimperfecto.github.io",
+    "theme": "//preteritoimperfecto.github.io/themes/casper",
+    "images": "https://preteritoimperfecto.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
